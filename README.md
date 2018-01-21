@@ -1,2 +1,2 @@
 # NintendoGL
-Project for software engineering 
+NES emulator for the browser, our Software Engineering Project.
